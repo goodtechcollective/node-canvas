@@ -32,7 +32,7 @@
     "nan": "^2.3.2"
   },
   "devDependencies": {
-    "body-parser": "^1.13.3",
+    "body-parser": "^1.16.1",
     "express": "^4.13.2",
     "jade": "^1.11.0",
     "mocha": "*"
